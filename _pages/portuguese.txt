@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "Research"
+permalink: /portuguese/
+author_profile: true
+---
+
+
+~~~R
+#Olá! 
+
+#Eu sou aluno de doutorado na Washington University in St. #Louis em ciência política. 
+
+#As minhas áreas de especialidade são política comparada e #métodos quantitativos
+
+#O foco da minha pesquisa substanttiva é na ascensão e no #comportamento de radicais e populistas com um enfoque regional #na América Latina. Na área metodológica, meus interesses são #em experimentos e inferência causal. 
+
+#Eu sou orgulhosamente uma mistura de paraense, carioca e #candango. Além disso, sou muito Flamengo. 
+
+#Você pode entrar em contato através do email #[raduaneugenio@wustl.edu](mailto:raduaneugenio@wustl.edu).
+
+~~~
+
