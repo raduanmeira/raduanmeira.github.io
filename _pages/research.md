@@ -14,7 +14,7 @@ author_profile: true
  > How does immigration shock affect natives' voting behavior? While numerous studies explore (a) natives' attitudes toward immigrants and (b) the electoral appeals of anti-immigrant parties, much less is known about how immigration directly impacts the electoral performance of incumbents. Following group threat theory, I argue that voters feel threatened by an immigration influx, leading to political discontent. Consequently, higher exposure to immigration results in a lower voting share for incumbents. I empirically test this argument by analyzing the impact of the Venezuelan immigration influx in Brazil during the 2018 Brazilian national elections. Unlike  advanced democracies, no major Brazilian presidential candidate addressed immigration in their 2018 campaign. I use the distance to the border as an instrumental variable to establish a causal link between immigration shock and voting behavior against the incumbent. The findings offer empirical evidence supporting the notion that heightened immigration levels can trigger a political backlash.
 
 
-Last update 04/11/2024
+Last update 08/24/2024
 
 ---
 
