@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! 
+I am a Ph.D. candidate at Washington University in St. Louis, focusing on comparative politics and quantitative methods.
 
-I am a third-year political science Ph.D. student at Washington University in St. Louis, focusing on comparative politics and quantitative methods. 
+My research investigates recent changes in the public's political behavior across Latin America. The emphasis of my substantive research is on the conservative turn and the rise of the populist radical right in Latin America. However, I also do research on the political impact of the Venezuelan diaspora across the region. I use quantitative methods to address these research questions. My work contributes to our understanding of populism and the rise of political right in developing countries, enlarging our understanding of these phenomena.
 
-The emphasis of my substantive research is on the interaction between political institutions and political behavior. More precisely, I am interested in how institutions condition elites' actions, especially the action of radical and anti-establishment politicians. I have a regional focus on Latin America. Methodologically, I am interested in survey experiments and causal inference.  
-
-Besides academia, I like to cook, watch soccer, and enjoy a cold beer with friends.
+Besides academia, I like to cook, watch soccer, and enjoy a cold beer while solving all the problems of the world at a bar table with some friends.
 
 I am proudly Brazilian and a Flamengo supporter. You can get in touch with me at [raduaneugenio@wustl.edu](mailto:raduaneugenio@wustl.edu).
