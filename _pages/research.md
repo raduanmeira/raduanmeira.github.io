@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers
 
-1. [Immigration without mediation: Brazilians reaction to an influx of Venezuelans](/files/immigration_without_mediation.pdf){: .btn--research}
+1. [Immigration without mediation: Brazilians reaction to an influx of Venezuelans](files/immigration_without_mediation.pdf){: .btn--research}
 
 ### Abstract:
 
