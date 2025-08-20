@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers
 
-1. [Immigration without mediation: Brazilians reaction to an influx of Venezuelans](files/immigration_without_mediation.pdf){: .btn--research}
+1. Immigration without mediation: Brazilians reaction to an influx of Venezuelans
 	
 	**Abstract:** What is the impact of immigration shocks on the voting behavior of native populations? While numerous studies explore (a) natives' attitudes toward immigrants and (b) the electoral appeals of anti-immigrant parties, much less is known about how immigration impacts the electoral performance of incumbents. I argue that voters feel threatened by an immigration influx, leading to political discontent. Consequently, higher exposure to immigration results in a lower voting share for incumbents. I empirically test this argument by analyzing the impact of the Venezuelan immigration influx in Brazil during the 2018 Brazilian national elections. In contrast to advanced democracies, where immigration debates often feature prominently, no major Brazilian presidential candidate addressed immigration during the 2018 campaign. Using an instrumental variables and a difference-in-difference designs, I find an effect that immigration shocks promote anti-incumbent behavior. The findings offer empirical evidence supporting the notion that heightened immigration levels can trigger a political backlash. _Last update 08/11/2025_
 
