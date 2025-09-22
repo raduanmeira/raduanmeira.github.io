@@ -38,6 +38,6 @@ author_profile: true
 
 ## Work in Progress
 
-6. Populism Viability and Electoral System: Evaluation of Welsh and Scotish Electoral Diversity
+6. Does Different Types of Minorities generate different Type of Reaction? Evaluating the Effect of Minority Heterogeneity on Populist Backlash.
 
 7. Border lines and Party lines: The effect of borders on voting behavior in Brazil (with [Amaan Acharaniya](https://sites.wustl.edu/amaancharaniya/))
