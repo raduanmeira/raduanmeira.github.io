@@ -38,6 +38,6 @@ author_profile: true
 
 ## Work in Progress
 
-6. Does Different Types of Minorities generate different Type of Reaction? Evaluating the Effect of Minority Heterogeneity on Populist Backlash.
+6. Do Different Types of Minorities Generate Different Types of Reactions? Evaluating the Effect of Minority Heterogeneity on Populist Backlash.
 
 7. Border lines and Party lines: The effect of borders on voting behavior in Brazil (with [Amaan Acharaniya](https://sites.wustl.edu/amaancharaniya/))
