@@ -3,11 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-#  - title: "Português"
-#    url: /portuguese/
-
-#  - title: "Teaching"
-#    url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
 
 #  - title: "Portfolio"
 #    url: /portfolio/

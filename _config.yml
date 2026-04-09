@@ -80,11 +80,12 @@ analytics:
 author:
   name             : "Raduan van Velthem Meira"
   avatar           : "photo.png"
-  bio              : "Ph.D. Student, Political Science"
+  bio              : "Ph.D. Candidate, Political Science"
   location         : "St. Louis - MO/Rio, Belém, BSB - Brazil"
   employer         : "Washington University in St. Louis"
-  googlescholar    :
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=steHgfkAAAAJ&hl=pt-BR&oi=ao"
+  Lattes           : "http://lattes.cnpq.br/9525221709095815"
+  email            : "readuaneugenio@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -206,7 +207,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+   _teaching
   - scope:
       path: ""
       type: teaching
@@ -215,7 +216,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+   _publications
   - scope:
       path: ""
       type: publications
