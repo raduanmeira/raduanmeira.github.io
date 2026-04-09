@@ -37,4 +37,4 @@ author_profile: true
 
 7. Border lines and Party lines: The effect of borders on voting behavior in Brazil (with [Amaan Acharaniya](https://sites.wustl.edu/amaancharaniya/))
 
-8. Gig Econommy and Its Electoral Effect: Evaluating the Poltical Impact of Ridesharing in Brazil. (with [Luísa Nazareno (https://www.luisanazareno.com/home)
+8. Gig Econommy and Its Electoral Effect: Evaluating the Poltical Impact of Ridesharing in Brazil. (with [Luísa Nazareno] (https://www.luisanazareno.com/home))
