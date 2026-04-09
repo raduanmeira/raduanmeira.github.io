@@ -33,8 +33,6 @@ author_profile: true
 
 ## Work in Progress
 
-6. Do Different Types of Minorities Generate Different Types of Reactions? Evaluating the Effect of Minority Heterogeneity on Populist Backlash.
+6. Border lines and Party lines: The effect of borders on voting behavior in Brazil (with [Amaan Acharaniya](https://sites.wustl.edu/amaancharaniya/))
 
-7. Border lines and Party lines: The effect of borders on voting behavior in Brazil (with [Amaan Acharaniya](https://sites.wustl.edu/amaancharaniya/))
-
-8. Gig Econommy and Its Electoral Effect: Evaluating the Poltical Impact of Ridesharing in Brazil. (with [Luísa Nazareno](https://www.luisanazareno.com/home))
+7. Gig Econommy and Its Electoral Effect: Evaluating the Poltical Impact of Ridesharing in Brazil. (with [Luísa Nazareno](https://www.luisanazareno.com/home))
